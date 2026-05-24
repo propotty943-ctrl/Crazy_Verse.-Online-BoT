@@ -6,10 +6,10 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
-    "version": "",
-    "try-creative": false
+    "ip": "play-Crazy_Verse.aternos.me",
+    "port": 54885,
+    "version": "1.26.1.1",
+    "try-creative": true
   },
   "position": {
     "enabled": true,
@@ -32,7 +32,7 @@
       "repeat-delay": 120,
       "messages": [
         "I'm a regular player",
-        "Subscribe to Slobos!",
+        "Subscribe to Crazy_Gamer!",
         "I like to play Minecraft!"
       ]
     },
@@ -74,11 +74,11 @@
   },
   "discord": {
     "enabled": false,
-    "webhookUrl": "YOUR_DISCORD_WEBHOOK_URL_HERE",
+    "webhookUrl": "https://discord.gg/V8GNDyhkp",
     "events": {
       "connect": true,
       "disconnect": true,
-      "chat": false
+      "chat": true
     }
   },
   "chat": {
